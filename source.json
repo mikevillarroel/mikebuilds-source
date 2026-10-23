@@ -18,6 +18,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "2.0.3",
+          "date": "2026-10-23",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.3/BuildBox-2.0.3.ipa",
+          "size": 17783283,
+          "minOSVersion": "17.0",
+          "localizedDescription": "New Sources + Add App tabs, reworked Sign tab (certificate page, collapsible App Info, pinned Signature/Install), real-signature Install check, frosted tab bar and a pro About."
+        },
+        {
           "version": "2.0.2",
           "date": "2026-10-23",
           "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.2/BuildBox-2.0.2.ipa",

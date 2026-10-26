@@ -72,6 +72,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.4",
+          "date": "2026-10-26",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa",
+          "size": 889934,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Saved layouts now fully visible and deletable."
+        },
+        {
           "version": "1.0.3",
           "date": "2026-10-26",
           "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.3/Layers-1.0.3.ipa",

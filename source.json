@@ -18,6 +18,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "2.1.0",
+          "date": "2026-10-26",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.0/BuildBox-2.1.0.ipa",
+          "size": 17956353,
+          "minOSVersion": "18.0",
+          "localizedDescription": "Catalog-first redesign (Catalog home tab, Sources as a sheet, restyled Signed tab), signing fixed (release apps open again, catalog signing no longer closes the app), Catalog refresh, Clear All logs, matching page titles; requires iOS 18+."
+        },
+        {
           "version": "2.0.3",
           "date": "2026-10-23",
           "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.3/BuildBox-2.0.3.ipa",

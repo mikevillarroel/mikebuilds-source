@@ -35,14 +35,14 @@
       "name": "Layers",
       "bundleIdentifier": "com.mikevillarroel.layers",
       "developerName": "MikeBuilds",
-      "version": "1.0.2",
-      "versionDate": "2026-10-22T22:08:13-04:00",
-      "versionDescription": "Fixed app images not rendering in sideloaded installs.",
-      "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa",
+      "version": "1.0.3",
+      "versionDate": "2026-10-26T12:11:09-04:00",
+      "versionDescription": "Fixed Export not saving to Photos.",
+      "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.3/Layers-1.0.3.ipa",
       "localizedDescription": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen customization, no jailbreak. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
       "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/layers.png",
       "tintColor": "7D5CFF",
-      "size": 1170494,
+      "size": 888396,
       "type": 1
     }
   ]

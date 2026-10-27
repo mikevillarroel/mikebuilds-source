@@ -77,14 +77,14 @@
       "name": "Layers",
       "bundleIdentifier": "com.mikevillarroel.layers",
       "developerName": "MikeBuilds",
-      "version": "1.0.4",
-      "versionDate": "2026-10-26T12:46:55-04:00",
-      "versionDescription": "Saved layouts now fully visible and deletable.",
-      "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa",
+      "version": "1.0.5",
+      "versionDate": "2026-10-27T09:44:29-04:00",
+      "versionDescription": "Effect presets (Soft/Medium/Strong pills for Depth shadow and 3D border); tighter 3D frame and smaller shadows.",
+      "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.5/Layers-1.0.5.ipa",
       "localizedDescription": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen customization, no jailbreak. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
       "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/layers.png",
       "tintColor": "7D5CFF",
-      "size": 889934,
+      "size": 889664,
       "type": 1
     }
   ]

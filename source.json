@@ -124,12 +124,12 @@
       "category": "photo-video",
       "versions": [
         {
-          "version": "1.0.7",
-          "date": "2026-10-23",
-          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.7/TendieMaker-1.0.7.ipa",
-          "size": 4067344,
+          "version": "1.0.8",
+          "date": "2026-10-28",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.8/TendieMaker-1.0.8.ipa",
+          "size": 3721599,
           "minOSVersion": "17.0",
-          "localizedDescription": "Fixed app images not rendering in sideloaded installs."
+          "localizedDescription": "Real preview, playback speed, and Files import."
         }
       ],
       "appPermissions": {

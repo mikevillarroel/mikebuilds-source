@@ -1,0 +1,129 @@
+{
+  "name": "MikeBuildsApp Originals",
+  "identifier": "com.mikevillarroel.source.originals",
+  "subtitle": "Original apps by MikeBuildsApp — no third-party or modified apps",
+  "description": "Original iOS apps built and owned by MikeBuildsApp (Miguel Villarroel): BuildBox (on-device IPA signer/installer), TendieMaker (.tendies wallpaper maker) and Layers (home-screen overlay maker). This source contains ONLY our own original apps — no modified or redistributed third-party apps.",
+  "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/source.png",
+  "website": "https://github.com/mikevillarroel",
+  "tintColor": "#FDAC03",
+  "apps": [
+    {
+      "name": "BuildBox",
+      "bundleIdentifier": "com.mikevillarroel.buildbox",
+      "developerName": "MikeBuilds",
+      "subtitle": "Compile, sign and install iOS apps from your iPhone",
+      "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle in one app. It can also import any IPA just to sign it, and inject .deb/.zip tweak packages before signing. Ships as an unsigned IPA. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
+      "tintColor": "#2F7CF6",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "2.1.0",
+          "date": "2026-10-26",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.0/BuildBox-2.1.0.ipa",
+          "size": 17956353,
+          "minOSVersion": "18.0",
+          "localizedDescription": "Catalog-first redesign (Catalog home tab, Sources as a sheet, restyled Signed tab), signing fixed (release apps open again, catalog signing no longer closes the app), Catalog refresh, Clear All logs, matching page titles; requires iOS 18+."
+        },
+        {
+          "version": "2.0.3",
+          "date": "2026-10-23",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.3/BuildBox-2.0.3.ipa",
+          "size": 17783283,
+          "minOSVersion": "17.0",
+          "localizedDescription": "New Sources + Add App tabs, reworked Sign tab (certificate page, collapsible App Info, pinned Signature/Install), real-signature Install check, frosted tab bar and a pro About."
+        },
+        {
+          "version": "2.0.2",
+          "date": "2026-10-23",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.2/BuildBox-2.0.2.ipa",
+          "size": 17523169,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Tweak package injection (.deb/.zip) at sign time, sign reliability fixes, Library Install button and Copy Log improvements."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "TendieMaker",
+      "bundleIdentifier": "com.mikevillarroel.tendiemaker",
+      "developerName": "MikeBuilds",
+      "subtitle": "Make .tendie live wallpapers from your own videos",
+      "localizedDescription": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
+      "tintColor": "#FDAC03",
+      "category": "photo-video",
+      "versions": [
+        {
+          "version": "1.0.9",
+          "date": "2026-10-30",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.9/TendieMaker-1.0.9.ipa",
+          "size": 3697748,
+          "minOSVersion": "17.0",
+          "localizedDescription": "App icon fix."
+        },
+        {
+          "version": "1.0.8",
+          "date": "2026-10-28",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.8/TendieMaker-1.0.8.ipa",
+          "size": 3721599,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Real preview, playback speed, and Files import."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Layers",
+      "bundleIdentifier": "com.mikevillarroel.layers",
+      "developerName": "MikeBuilds",
+      "subtitle": "Icon borders, dock tint and depth shadows in your wallpaper",
+      "localizedDescription": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen customization, no jailbreak. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/layers.png",
+      "tintColor": "#7D5CFF",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.5/Layers-1.0.5.ipa",
+          "size": 889664,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Effect presets (Soft/Medium/Strong pills for Depth shadow and 3D border); tighter 3D frame and smaller shadows."
+        },
+        {
+          "version": "1.0.4",
+          "date": "2026-10-26",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa",
+          "size": 889934,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Saved layouts now fully visible and deletable."
+        },
+        {
+          "version": "1.0.3",
+          "date": "2026-10-26",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.3/Layers-1.0.3.ipa",
+          "size": 888396,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Fixed Export not saving to Photos."
+        },
+        {
+          "version": "1.0.2",
+          "date": "2026-10-23",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa",
+          "size": 1170494,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Fixed app images not rendering in sideloaded installs."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}

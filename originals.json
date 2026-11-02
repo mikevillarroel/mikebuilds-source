@@ -21,7 +21,7 @@
           "version": "2.1.1",
           "date": "2026-11-02",
           "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.1/BuildBox-2.1.1.ipa",
-          "size": 16290025,
+          "size": 15298848,
           "minOSVersion": "18.0",
           "localizedDescription": "New official icon - the planet of apps, designed by Miguel. Change any app's icon in Sign (Files or Photos) and inject .deb/.zip tweak packages on-device before signing. Signed apps show a profile-expiry countdown; share unsigned IPAs from the Catalog; Clear Cache in Settings. Open With fixed for .ipa files. Languages: English, Espanol and Arabic with full RTL layout. Requires iOS 18+."
         },

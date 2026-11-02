@@ -56,7 +56,7 @@
       "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle in one app. It can also import any IPA just to sign it, and inject .deb/.zip tweak packages before signing. Ships as an unsigned IPA. Free with a donate button.",
       "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
       "tintColor": "2F7CF6",
-      "size": 16290025,
+      "size": 15298848,
       "type": 1
     },
     {

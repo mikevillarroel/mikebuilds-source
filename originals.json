@@ -18,6 +18,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "2.1.2",
+          "date": "2026-11-02",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.2/BuildBox-2.1.2.ipa",
+          "size": 16058860,
+          "minOSVersion": "18.0",
+          "localizedDescription": "Icon refined: the planet of apps now shows its blueprint grid - same artwork, design lines visible at any size. Button fix: Download and Sign in the Catalog (Featured carousel and app rows) and Install in the Library now respond across the whole button, not just the text. Requires iOS 18+."
+        },
+        {
           "version": "2.1.1",
           "date": "2026-11-02",
           "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.1/BuildBox-2.1.1.ipa",

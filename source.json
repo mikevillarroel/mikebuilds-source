@@ -85,6 +85,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "2.1.4",
+          "date": "2026-11-02",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.4/BuildBox-2.1.4.ipa",
+          "size": 15595926,
+          "minOSVersion": "18.0",
+          "localizedDescription": "New app icon. Requires iOS 18+."
+        },
+        {
           "version": "2.1.3",
           "date": "2026-11-02",
           "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.3/BuildBox-2.1.3.ipa",

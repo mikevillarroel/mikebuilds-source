@@ -1,236 +1,236 @@
 {
- "name": "MikeBuildsApp",
- "identifier": "com.mikevillarroel.source",
- "subtitle": "Unsigned IPAs by MikeBuilds: BuildBox, TendieMaker, Layers",
- "description": "Official source for MikeBuilds apps. Every IPA ships unsigned (Sami-Wali model) - sign it with BuildBox, ESign, SideStore or AltStore. Support: Telegram t.me/MikeBuildsApp - Discord discord.gg/vjJ9rZDNsg",
- "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/source.png",
- "website": "https://github.com/mikevillarroel",
- "tintColor": "#FDAC03",
- "apps": [
-  {
-   "name": "ReGram",
-   "bundleIdentifier": "com.burbn.instagram",
-   "developerName": "Fouad Raheb",
-   "subtitle": "The all-in-one tweak for Instagram",
-   "localizedDescription": "The all-in-one tweak for Instagram. Requires a Patreon license; delete the original Instagram before installing.",
-   "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
-   "tintColor": "#E1306C",
-   "category": "social",
-   "versions": [
+  "name": "MikeBuildsApp",
+  "identifier": "com.mikevillarroel.source",
+  "subtitle": "Unsigned IPAs by MikeBuilds: BuildBox, TendieMaker, Layers",
+  "description": "Official source for MikeBuilds apps. Every IPA ships unsigned (Sami-Wali model) - sign it with BuildBox, ESign, SideStore or AltStore. Support: Telegram t.me/MikeBuildsApp - Discord discord.gg/vjJ9rZDNsg",
+  "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/source.png",
+  "website": "https://github.com/mikevillarroel",
+  "tintColor": "#FDAC03",
+  "apps": [
     {
-     "version": "452.0.1",
-     "date": "2026-10-20",
-     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-2ir1z/com.burbn.instagram_452.0.1_regram_6.5_sl.ipa",
-     "size": 349861239,
-     "localizedDescription": "Bug fixes and compatibility updates for IG 451 and 452."
+      "name": "ReGram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Fouad Raheb",
+      "subtitle": "The all-in-one tweak for Instagram",
+      "localizedDescription": "The all-in-one tweak for Instagram. Requires a Patreon license; delete the original Instagram before installing.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "tintColor": "#E1306C",
+      "category": "social",
+      "versions": [
+        {
+          "version": "452.0.1",
+          "date": "2026-10-20",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-2ir1z/com.burbn.instagram_452.0.1_regram_6.5_sl.ipa",
+          "size": 349861239,
+          "localizedDescription": "Bug fixes and compatibility updates for IG 451 and 452."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Watusi",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "Fouad Raheb",
+      "subtitle": "The all-in-one tweak for WhatsApp",
+      "localizedDescription": "The all-in-one tweak for WhatsApp. Delete the original WhatsApp before installing.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "tintColor": "#075e54",
+      "category": "social",
+      "versions": [
+        {
+          "version": "26.41.75",
+          "date": "2026-10-24",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-as7xg/net.whatsapp.WhatsApp_26.41.75_watusi3_1.3.28_sl.ipa",
+          "size": 180005083,
+          "localizedDescription": "Watusi 1.3.28 — bug fixes and support for WhatsApp 26.41.X."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Cercube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Cercube",
+      "subtitle": "The all-in-one jailbreak tweak",
+      "localizedDescription": "Cache media for offline playback, use Picture in Picture and background playback, block ads, and customize your app experience. Delete the original YouTube before installing.",
+      "iconURL": "https://cdn.cercube.com/assets/icon.png",
+      "tintColor": "#e62117",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "21.40.5",
+          "date": "2026-10-15",
+          "downloadURL": "https://api.cercube.com/download/sideload/b9c5453a",
+          "size": 129654611,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Cercube 6.4.2 — improves the player layout for right-to-left languages."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "BuildBox",
+      "bundleIdentifier": "com.mikevillarroel.buildbox",
+      "developerName": "MikeBuilds",
+      "subtitle": "Compile, sign and install iOS apps from your iPhone",
+      "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle in one app. It can also import any IPA just to sign it, and inject .deb/.zip tweak packages before signing. Ships as an unsigned IPA. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
+      "tintColor": "#2F7CF6",
+      "category": "sideloading",
+      "versions": [
+        {
+          "version": "2.1.6",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
+          "size": 15597600,
+          "minOSVersion": "18.0",
+          "localizedDescription": "Fixes a crash when signing large IPAs (like Instagram). BuildBox now appears in the Files app. Requires iOS 18+."
+        },
+        {
+          "version": "2.1.4",
+          "date": "2026-11-02",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.4/BuildBox-2.1.4.ipa",
+          "size": 15595926,
+          "minOSVersion": "18.0",
+          "localizedDescription": "New app icon. Requires iOS 18+."
+        },
+        {
+          "version": "2.1.3",
+          "date": "2026-11-02",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.3/BuildBox-2.1.3.ipa",
+          "size": 15651369,
+          "minOSVersion": "18.0",
+          "localizedDescription": "Icon perfected: the planet of apps blueprint grid redrawn clean - crisp single lines at any size. Button fix: Download and Sign in the Catalog (Featured carousel and app rows) and Install in the Library now respond across the whole button, not just the text. Requires iOS 18+."
+        },
+        {
+          "version": "2.1.2",
+          "date": "2026-11-02",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.2/BuildBox-2.1.2.ipa",
+          "size": 16058860,
+          "minOSVersion": "18.0",
+          "localizedDescription": "Icon refined: the planet of apps now shows its blueprint grid - same artwork, design lines visible at any size. Button fix: Download and Sign in the Catalog (Featured carousel and app rows) and Install in the Library now respond across the whole button, not just the text. Requires iOS 18+."
+        },
+        {
+          "version": "2.1.1",
+          "date": "2026-11-02",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.1/BuildBox-2.1.1.ipa",
+          "size": 15298848,
+          "minOSVersion": "18.0",
+          "localizedDescription": "New official icon - the planet of apps, designed by Miguel. Change any app's icon in Sign (Files or Photos) and inject .deb/.zip tweak packages on-device before signing. Signed apps show a profile-expiry countdown; share unsigned IPAs from the Catalog; Clear Cache in Settings. Open With fixed for .ipa files. Languages: English, Espanol and Arabic with full RTL layout. Requires iOS 18+."
+        },
+        {
+          "version": "2.1.0",
+          "date": "2026-10-26",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.0/BuildBox-2.1.0.ipa",
+          "size": 17956353,
+          "minOSVersion": "18.0",
+          "localizedDescription": "Catalog-first redesign (Catalog home tab, Sources as a sheet, restyled Signed tab), signing fixed (release apps open again, catalog signing no longer closes the app), Catalog refresh, Clear All logs, matching page titles; requires iOS 18+."
+        },
+        {
+          "version": "2.0.3",
+          "date": "2026-10-23",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.3/BuildBox-2.0.3.ipa",
+          "size": 17783283,
+          "minOSVersion": "17.0",
+          "localizedDescription": "New Sources + Add App tabs, reworked Sign tab (certificate page, collapsible App Info, pinned Signature/Install), real-signature Install check, frosted tab bar and a pro About."
+        },
+        {
+          "version": "2.0.2",
+          "date": "2026-10-23",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.2/BuildBox-2.0.2.ipa",
+          "size": 17523169,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Tweak package injection (.deb/.zip) at sign time, sign reliability fixes, Library Install button and Copy Log improvements."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "TendieMaker",
+      "bundleIdentifier": "com.mikevillarroel.tendiemaker",
+      "developerName": "MikeBuilds",
+      "subtitle": "Make .tendie live wallpapers from your own videos",
+      "localizedDescription": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
+      "tintColor": "#FDAC03",
+      "category": "photo-video",
+      "versions": [
+        {
+          "version": "1.0.9",
+          "date": "2026-10-30",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.9/TendieMaker-1.0.9.ipa",
+          "size": 3697748,
+          "minOSVersion": "17.0",
+          "localizedDescription": "App icon fix."
+        },
+        {
+          "version": "1.0.8",
+          "date": "2026-10-28",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.8/TendieMaker-1.0.8.ipa",
+          "size": 3721599,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Real preview, playback speed, and Files import."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Layers",
+      "bundleIdentifier": "com.mikevillarroel.layers",
+      "developerName": "MikeBuilds",
+      "subtitle": "Icon borders, dock tint and depth shadows in your wallpaper",
+      "localizedDescription": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen customization, no jailbreak. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/layers.png",
+      "tintColor": "#7D5CFF",
+      "category": "photo-video",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.5/Layers-1.0.5.ipa",
+          "size": 889664,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Effect presets (Soft/Medium/Strong pills for Depth shadow and 3D border); tighter 3D frame and smaller shadows."
+        },
+        {
+          "version": "1.0.4",
+          "date": "2026-10-26",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa",
+          "size": 889934,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Saved layouts now fully visible and deletable."
+        },
+        {
+          "version": "1.0.3",
+          "date": "2026-10-26",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.3/Layers-1.0.3.ipa",
+          "size": 888396,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Fixed Export not saving to Photos."
+        },
+        {
+          "version": "1.0.2",
+          "date": "2026-10-23",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa",
+          "size": 1170494,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Fixed app images not rendering in sideloaded installs."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
     }
-   ],
-   "appPermissions": {
-    "privacy": {}
-   }
-  },
-  {
-   "name": "Watusi",
-   "bundleIdentifier": "net.whatsapp.WhatsApp",
-   "developerName": "Fouad Raheb",
-   "subtitle": "The all-in-one tweak for WhatsApp",
-   "localizedDescription": "The all-in-one tweak for WhatsApp. Delete the original WhatsApp before installing.",
-   "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-   "tintColor": "#075e54",
-   "category": "social",
-   "versions": [
-    {
-     "version": "26.41.75",
-     "date": "2026-10-24",
-     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-as7xg/net.whatsapp.WhatsApp_26.41.75_watusi3_1.3.28_sl.ipa",
-     "size": 180005083,
-     "localizedDescription": "Watusi 1.3.28 — bug fixes and support for WhatsApp 26.41.X."
-    }
-   ],
-   "appPermissions": {
-    "privacy": {}
-   }
-  },
-  {
-   "name": "Cercube",
-   "bundleIdentifier": "com.google.ios.youtube",
-   "developerName": "Cercube",
-   "subtitle": "The all-in-one jailbreak tweak",
-   "localizedDescription": "Cache media for offline playback, use Picture in Picture and background playback, block ads, and customize your app experience. Delete the original YouTube before installing.",
-   "iconURL": "https://cdn.cercube.com/assets/icon.png",
-   "tintColor": "#e62117",
-   "category": "entertainment",
-   "versions": [
-    {
-     "version": "21.40.5",
-     "date": "2026-10-15",
-     "downloadURL": "https://api.cercube.com/download/sideload/b9c5453a",
-     "size": 129654611,
-     "minOSVersion": "17.0",
-     "localizedDescription": "Cercube 6.4.2 — improves the player layout for right-to-left languages."
-    }
-   ],
-   "appPermissions": {
-    "privacy": {}
-   }
-  },
-  {
-   "name": "BuildBox",
-   "bundleIdentifier": "com.mikevillarroel.buildbox",
-   "developerName": "MikeBuilds",
-   "subtitle": "Compile, sign and install iOS apps from your iPhone",
-   "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle in one app. It can also import any IPA just to sign it, and inject .deb/.zip tweak packages before signing. Ships as an unsigned IPA. Free with a donate button.",
-   "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
-   "tintColor": "#2F7CF6",
-   "category": "utilities",
-   "versions": [
-    {
-     "version": "2.1.6",
-     "date": "2026-11-06",
-     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
-     "size": 15597600,
-     "minOSVersion": "18.0",
-     "localizedDescription": "Fixes a crash when signing large IPAs (like Instagram). BuildBox now appears in the Files app. Requires iOS 18+."
-    },
-    {
-     "version": "2.1.4",
-     "date": "2026-11-02",
-     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.4/BuildBox-2.1.4.ipa",
-     "size": 15595926,
-     "minOSVersion": "18.0",
-     "localizedDescription": "New app icon. Requires iOS 18+."
-    },
-    {
-     "version": "2.1.3",
-     "date": "2026-11-02",
-     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.3/BuildBox-2.1.3.ipa",
-     "size": 15651369,
-     "minOSVersion": "18.0",
-     "localizedDescription": "Icon perfected: the planet of apps blueprint grid redrawn clean - crisp single lines at any size. Button fix: Download and Sign in the Catalog (Featured carousel and app rows) and Install in the Library now respond across the whole button, not just the text. Requires iOS 18+."
-    },
-    {
-     "version": "2.1.2",
-     "date": "2026-11-02",
-     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.2/BuildBox-2.1.2.ipa",
-     "size": 16058860,
-     "minOSVersion": "18.0",
-     "localizedDescription": "Icon refined: the planet of apps now shows its blueprint grid - same artwork, design lines visible at any size. Button fix: Download and Sign in the Catalog (Featured carousel and app rows) and Install in the Library now respond across the whole button, not just the text. Requires iOS 18+."
-    },
-    {
-     "version": "2.1.1",
-     "date": "2026-11-02",
-     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.1/BuildBox-2.1.1.ipa",
-     "size": 15298848,
-     "minOSVersion": "18.0",
-     "localizedDescription": "New official icon - the planet of apps, designed by Miguel. Change any app's icon in Sign (Files or Photos) and inject .deb/.zip tweak packages on-device before signing. Signed apps show a profile-expiry countdown; share unsigned IPAs from the Catalog; Clear Cache in Settings. Open With fixed for .ipa files. Languages: English, Espanol and Arabic with full RTL layout. Requires iOS 18+."
-    },
-    {
-     "version": "2.1.0",
-     "date": "2026-10-26",
-     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.0/BuildBox-2.1.0.ipa",
-     "size": 17956353,
-     "minOSVersion": "18.0",
-     "localizedDescription": "Catalog-first redesign (Catalog home tab, Sources as a sheet, restyled Signed tab), signing fixed (release apps open again, catalog signing no longer closes the app), Catalog refresh, Clear All logs, matching page titles; requires iOS 18+."
-    },
-    {
-     "version": "2.0.3",
-     "date": "2026-10-23",
-     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.3/BuildBox-2.0.3.ipa",
-     "size": 17783283,
-     "minOSVersion": "17.0",
-     "localizedDescription": "New Sources + Add App tabs, reworked Sign tab (certificate page, collapsible App Info, pinned Signature/Install), real-signature Install check, frosted tab bar and a pro About."
-    },
-    {
-     "version": "2.0.2",
-     "date": "2026-10-23",
-     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.0.2/BuildBox-2.0.2.ipa",
-     "size": 17523169,
-     "minOSVersion": "17.0",
-     "localizedDescription": "Tweak package injection (.deb/.zip) at sign time, sign reliability fixes, Library Install button and Copy Log improvements."
-    }
-   ],
-   "appPermissions": {
-    "privacy": {}
-   }
-  },
-  {
-   "name": "TendieMaker",
-   "bundleIdentifier": "com.mikevillarroel.tendiemaker",
-   "developerName": "MikeBuilds",
-   "subtitle": "Make .tendie live wallpapers from your own videos",
-   "localizedDescription": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
-   "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
-   "tintColor": "#FDAC03",
-   "category": "photo-video",
-   "versions": [
-    {
-     "version": "1.0.9",
-     "date": "2026-10-30",
-     "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.9/TendieMaker-1.0.9.ipa",
-     "size": 3697748,
-     "minOSVersion": "17.0",
-     "localizedDescription": "App icon fix."
-    },
-    {
-     "version": "1.0.8",
-     "date": "2026-10-28",
-     "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.8/TendieMaker-1.0.8.ipa",
-     "size": 3721599,
-     "minOSVersion": "17.0",
-     "localizedDescription": "Real preview, playback speed, and Files import."
-    }
-   ],
-   "appPermissions": {
-    "privacy": {}
-   }
-  },
-  {
-   "name": "Layers",
-   "bundleIdentifier": "com.mikevillarroel.layers",
-   "developerName": "MikeBuilds",
-   "subtitle": "Icon borders, dock tint and depth shadows in your wallpaper",
-   "localizedDescription": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen customization, no jailbreak. Ships as an unsigned IPA - sign it with BuildBox, ESign, SideStore or AltStore. Free with a donate button.",
-   "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/layers.png",
-   "tintColor": "#7D5CFF",
-   "category": "utilities",
-   "versions": [
-    {
-     "version": "1.0.5",
-     "date": "2026-10-27",
-     "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.5/Layers-1.0.5.ipa",
-     "size": 889664,
-     "minOSVersion": "17.0",
-     "localizedDescription": "Effect presets (Soft/Medium/Strong pills for Depth shadow and 3D border); tighter 3D frame and smaller shadows."
-    },
-    {
-     "version": "1.0.4",
-     "date": "2026-10-26",
-     "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa",
-     "size": 889934,
-     "minOSVersion": "17.0",
-     "localizedDescription": "Saved layouts now fully visible and deletable."
-    },
-    {
-     "version": "1.0.3",
-     "date": "2026-10-26",
-     "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.3/Layers-1.0.3.ipa",
-     "size": 888396,
-     "minOSVersion": "17.0",
-     "localizedDescription": "Fixed Export not saving to Photos."
-    },
-    {
-     "version": "1.0.2",
-     "date": "2026-10-23",
-     "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa",
-     "size": 1170494,
-     "minOSVersion": "17.0",
-     "localizedDescription": "Fixed app images not rendering in sideloaded installs."
-    }
-   ],
-   "appPermissions": {
-    "privacy": {}
-   }
-  }
- ],
- "news": []
+  ],
+  "news": []
 }

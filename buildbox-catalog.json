@@ -18,6 +18,13 @@
    "category": "social",
    "versions": [
     {
+     "version": "454.1.0",
+     "date": "2026-11-09",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794250144993-bnwzh/com.burbn.instagram_454.1.0_regram_7.0.1_sl.ipa",
+     "size": 377517422,
+     "localizedDescription": "ReGram 7.0.1 — sideload: new-feature popups should no longer reset after relaunch, and notifications still show message content — the Fix Emojis & Popups switch is gone, both now work together."
+    },
+    {
      "version": "452.0.1",
      "date": "2026-10-20",
      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-2ir1z/com.burbn.instagram_452.0.1_regram_6.5_sl.ipa",
@@ -40,6 +47,13 @@
    "category": "social",
    "versions": [
     {
+     "version": "26.42.77",
+     "date": "2026-11-03",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
+     "size": 183329997,
+     "localizedDescription": "Watusi 1.3.30 — bug fixes & support for WhatsApp 26.42."
+    },
+    {
      "version": "26.41.75",
      "date": "2026-10-24",
      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-as7xg/net.whatsapp.WhatsApp_26.41.75_watusi3_1.3.28_sl.ipa",
@@ -61,6 +75,14 @@
    "tintColor": "#e62117",
    "category": "entertainment",
    "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-06",
+     "downloadURL": "https://api.cercube.com/download/sideload/e6b9b1b6",
+     "size": 132420684,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Cercube 6.5.0 — adds background caching and improves the cache and player interface."
+    },
     {
      "version": "21.40.5",
      "date": "2026-10-15",

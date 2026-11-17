@@ -12,11 +12,19 @@
    "bundleIdentifier": "com.mikevillarroel.buildbox",
    "developerName": "MikeBuilds",
    "subtitle": "Compile, sign and install iOS apps from your iPhone",
-   "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle in one app. It can also import any IPA just to sign it, and inject .deb/.zip tweak packages before signing. Ships as an unsigned IPA. Free with a donate button.",
+   "localizedDescription": "New: Sign with Apple ID — sign IPAs with just your Apple ID, no certificate files needed. Free Apple IDs can install their signed apps too, with the built-in Pair & LocalDev. New Remove Glass theme (on by default) with three bottom-bar styles, smaller Featured cards and uniform Sign tab pills. Plus Certificate Info and a full General Log in About. Requires iOS 18+.",
    "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
    "tintColor": "#2F7CF6",
    "category": "sideloading",
    "versions": [
+    {
+     "version": "2.1.8",
+     "date": "2026-11-16",
+     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.8/BuildBox-2.1.8.ipa",
+     "size": 25079319,
+     "minOSVersion": "18.0",
+     "localizedDescription": "New: Sign with Apple ID — sign IPAs with just your Apple ID, no certificate files needed. Free Apple IDs can install their signed apps too, with the built-in Pair & LocalDev. New Remove Glass theme (on by default) with three bottom-bar styles, smaller Featured cards and uniform Sign tab pills. Plus Certificate Info and a full General Log in About. Requires iOS 18+."
+    },
     {
      "version": "2.1.7",
      "date": "2026-11-07",

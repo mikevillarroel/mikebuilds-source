@@ -2,7 +2,7 @@
   "name": "MikeBuildsApp Originals",
   "identifier": "com.mikevillarroel.source.originals",
   "subtitle": "Original apps by MikeBuildsApp — no third-party or modified apps",
-  "description": "Original iOS apps built and owned by MikeBuildsApp (Miguel Villarroel): BuildBox (on-device IPA signer/installer), TendieMaker (.tendies wallpaper maker) and Layers (home-screen overlay maker). This source contains ONLY our own original apps — no modified or redistributed third-party apps.",
+  "description": "Original iOS apps built and owned by MikeBuildsApp (Miguel Villarroel): BuildBox (on-device IPA signer/installer), TendieMaker (.tendies wallpaper maker), Layers (home-screen overlay maker) and Decryptonite (download and decrypt your purchased apps on-device). This source contains ONLY our own original apps — no modified or redistributed third-party apps.",
   "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/source.png",
   "website": "https://github.com/mikevillarroel",
   "tintColor": "#FDAC03",
@@ -150,6 +150,29 @@
           "size": 1170494,
           "minOSVersion": "17.0",
           "localizedDescription": "Fixed app images not rendering in sideloaded installs."
+        }
+      ],
+      "appPermissions": {
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Decryptonite",
+      "bundleIdentifier": "com.mikevillarroel.decryptonite",
+      "developerName": "MikeBuilds",
+      "subtitle": "Download your purchased apps and decrypt them on your iPhone",
+      "localizedDescription": "Decryptonite downloads the apps you already bought on the App Store and decrypts them right on your iPhone — no computer needed. Sign in with your Apple ID, pick an app from your own library, tap Decrypt, and get a clean IPA you actually own. Requires your Apple ID with purchased apps, a pairing file, and iOS 17+. Public beta.",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/decryptonite.png",
+      "tintColor": "#7AD0FF",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.8.0",
+          "date": "2026-11-17",
+          "downloadURL": "https://github.com/mikevillarroel/decryptonite/releases/download/v0.8.0/Decryptonite-0.8.0.ipa",
+          "size": 78558244,
+          "minOSVersion": "17.0",
+          "localizedDescription": "First public beta. Download your purchased App Store apps and decrypt them on your iPhone — no computer needed. Requires your Apple ID with purchased apps and a pairing file. Only works with apps you own."
         }
       ],
       "appPermissions": {

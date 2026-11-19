@@ -191,6 +191,14 @@
      "size": 17523169,
      "minOSVersion": "17.0",
      "localizedDescription": "Tweak package injection (.deb/.zip) at sign time, sign reliability fixes, Library Install button and Copy Log improvements."
+    },
+    {
+     "version": "2.1.8",
+     "date": "2026-11-18",
+     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.8-build179-personal/BuildBox-179-personal-notestpill-20261119-002834.ipa",
+     "size": 25119340,
+     "minOSVersion": "18.0",
+     "localizedDescription": "Personal build 179: update notices in the Catalog (the Download button turns orange and reads UPDATE when a newer version of an app you installed is out). Beta bundle ID."
     }
    ],
    "appPermissions": {

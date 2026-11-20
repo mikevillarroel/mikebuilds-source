@@ -215,6 +215,14 @@
    "category": "photo-video",
    "versions": [
     {
+     "version": "1.0.11",
+     "date": "2026-11-20",
+     "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.11/TendieMaker-1.0.11.ipa",
+     "size": 6152820,
+     "minOSVersion": "17.0",
+     "localizedDescription": "New Viewer: import folders, ZIPs and multiple files right in the app, multi-select delete, in-place playback, and bug fixes."
+    },
+    {
      "version": "1.0.10",
      "date": "2026-11-19",
      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.10/TendieMaker-1.0.10.ipa",

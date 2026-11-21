@@ -183,6 +183,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.8.1",
+          "date": "2026-11-21",
+          "downloadURL": "https://github.com/mikevillarroel/decryptonite/releases/download/v0.8.1/Decryptonite-0.8.1.ipa",
+          "size": 78558211,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Fixes Decrypt sign-in."
+        },
+        {
           "version": "0.8.0",
           "date": "2026-11-17",
           "downloadURL": "https://github.com/mikevillarroel/decryptonite/releases/download/v0.8.0/Decryptonite-0.8.0.ipa",

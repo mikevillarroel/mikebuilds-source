@@ -104,6 +104,14 @@
    "category": "entertainment",
    "versions": [
     {
+     "version": "21.46.3",
+     "date": "2026-11-22",
+     "downloadURL": "https://api.cercube.com/download/sideload/d6110d6f",
+     "size": 134627076,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Cercube 6.6.1 — fixes video-card actions and improves scrolling in the Cercube tab."
+    },
+    {
      "version": "21.44.4",
      "date": "2026-11-06",
      "downloadURL": "https://api.cercube.com/download/sideload/e6b9b1b6",

@@ -1,8 +1,8 @@
 {
- "name": "MikeBuildsApp Originals",
+ "name": "MikeBuildsApps Originals",
  "identifier": "com.mikevillarroel.source.originals",
- "subtitle": "Original apps by MikeBuildsApp — no third-party or modified apps",
- "description": "Original iOS apps built and owned by MikeBuildsApp (Miguel Villarroel): BuildBox (on-device IPA signer/installer), TendieMaker (.tendies wallpaper maker), Layers (home-screen overlay maker) and Decryptonite (download and decrypt your purchased apps on-device). This source contains ONLY our own original apps — no modified or redistributed third-party apps.",
+ "subtitle": "Original apps by MikeBuildsApps — no third-party or modified apps",
+ "description": "Original iOS apps built and owned by MikeBuildsApps (Miguel Villarroel): BuildBox (on-device IPA signer/installer), TendieMaker (.tendies wallpaper maker), Layers (home-screen overlay maker) and Decryptonite (download and decrypt your purchased apps on-device). This source contains ONLY our own original apps — no modified or redistributed third-party apps.",
  "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/source.png",
  "website": "https://github.com/mikevillarroel",
  "tintColor": "#FDAC03",

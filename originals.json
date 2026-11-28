@@ -2,7 +2,7 @@
  "name": "MikeBuildsApps Originals",
  "identifier": "com.mikevillarroel.source.originals",
  "subtitle": "Original apps by MikeBuildsApps — no third-party or modified apps",
- "description": "Original iOS apps built and owned by MikeBuildsApps (Miguel Villarroel): BuildBox (on-device IPA signer/installer), TendieMaker (.tendies wallpaper maker), Layers (home-screen overlay maker) and Decryptonite (download and decrypt your purchased apps on-device). This source contains ONLY our own original apps — no modified or redistributed third-party apps.",
+ "description": "Original iOS apps built and owned by MikeBuildsApps (Miguel Villarroel): BuildBox (on-device IPA signer/installer), TendieMaker (.tendies wallpaper maker), Layers (home-screen overlay maker) Decryptonite (download and decrypt your purchased apps on-device) and TunnelBox (your own loopback tunnel on your iPhone). This source contains ONLY our own original apps — no modified or redistributed third-party apps.",
  "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/source.png",
  "website": "https://github.com/mikevillarroel",
  "tintColor": "#FDAC03",
@@ -205,6 +205,29 @@
      "size": 17523169,
      "minOSVersion": "17.0",
      "localizedDescription": "Tweak package injection (.deb/.zip) at sign time, sign reliability fixes, Library Install button and Copy Log improvements."
+    }
+   ],
+   "appPermissions": {
+    "privacy": {}
+   }
+  },
+  {
+   "name": "TunnelBox",
+   "bundleIdentifier": "com.mikevillarroel.tunnelspike",
+   "developerName": "MikeBuilds",
+   "subtitle": "Your own loopback tunnel on your iPhone",
+   "localizedDescription": "TunnelBox creates your own loopback tunnel right on your iPhone — your phone, talking to itself, no third-party VPN app needed. One tap to start, live probe status, and a clean log you can copy. The tunnel needs a developer-certificate signature to run. Requires iOS 17+.",
+   "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tunnelbox.png",
+   "tintColor": "#0A84FF",
+   "category": "sideloading",
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2026-11-28",
+     "downloadURL": "https://github.com/mikevillarroel/tunnelbox/releases/download/v1.0.5/TunnelBox-1.0.5.ipa",
+     "size": 1475818,
+     "minOSVersion": "17.0",
+     "localizedDescription": "First public release. Your own loopback tunnel on your iPhone — no third-party VPN needed. The tunnel needs a developer-certificate signature to run."
     }
    ],
    "appPermissions": {

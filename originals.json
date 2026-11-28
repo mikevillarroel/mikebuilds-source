@@ -18,6 +18,14 @@
    "category": "utilities",
    "versions": [
     {
+     "version": "0.8.2",
+     "date": "2026-11-28",
+     "downloadURL": "https://github.com/mikevillarroel/decryptonite/releases/download/v0.8.2/Decryptonite-0.8.2.ipa",
+     "size": 80410003,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Maintenance update."
+    },
+    {
      "version": "0.8.1",
      "date": "2026-11-21",
      "downloadURL": "https://github.com/mikevillarroel/decryptonite/releases/download/v0.8.1/Decryptonite-0.8.1.ipa",
@@ -112,6 +120,14 @@
    "category": "utilities",
    "versions": [
     {
+     "version": "1.0.6",
+     "date": "2026-11-28",
+     "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.6/Layers-1.0.6.ipa",
+     "size": 4136499,
+     "minOSVersion": "17.0",
+     "localizedDescription": "Maintenance update."
+    },
+    {
      "version": "1.0.5",
      "date": "2026-10-27",
      "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.5/Layers-1.0.5.ipa",
@@ -158,6 +174,14 @@
    "tintColor": "#2F7CF6",
    "category": "utilities",
    "versions": [
+    {
+     "version": "2.1.9",
+     "date": "2026-11-28",
+     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.9/BuildBox-2.1.9.ipa",
+     "size": 27614211,
+     "minOSVersion": "18.0",
+     "localizedDescription": "Maintenance update."
+    },
     {
      "version": "2.1.4",
      "date": "2026-11-02",

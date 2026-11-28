@@ -281,7 +281,7 @@
      "version": "1.0.5",
      "date": "2026-11-28",
      "downloadURL": "https://github.com/mikevillarroel/tunnelbox/releases/download/v1.0.5/TunnelBox-1.0.5.ipa",
-     "size": 1475818,
+     "size": 3843230,
      "minOSVersion": "17.0",
      "localizedDescription": "First public release. Your own loopback tunnel on your iPhone — no third-party VPN needed. The tunnel needs a developer-certificate signature to run."
     }
